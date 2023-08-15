@@ -1,0 +1,30 @@
+<ul class="atom">
+    <li class="electron"></li>
+    <li class="electron"></li>
+    <li class="electron"></li>
+    <li class="electron"></li>
+    <li class="electron"></li>
+    <li class="electron"></li>
+    <li class="electron"></li>
+    <li class="electron"></li>
+    <ul class="nucleus">
+      <li class="proton" style="--x:1.5cqi;--y:1cqi">+</li>
+      <li class="neutron" style="--x:.5cqi;--y:.5cqi"></li>
+      <li class="proton">+</li>
+      <li class="neutron" style="--x:-1.5cqi;--y:1.5cqi"></li>
+      <li class="neutron"></li>
+      <li class="proton">+</li>
+      <li class="neutron"></li>
+      <li class="proton">+</li>
+      <li class="proton">+</li>
+      <li class="neutron"></li>
+      <li class="proton">+</li>
+      <li class="neutron"></li>
+      <li class="neutron" style="--x:1.25cqi;--y:-1.25cqi"></li>
+      <li class="proton">+</li>
+      <li class="neutron"></li>
+      <li class="proton" style="--x:-1.25cqi;--y:-1.5cqi">+</li>
+    </ul>
+  </ul>
+  <h1>Oxygen</h1>
+  <h2>Rutherford Model</h2>
